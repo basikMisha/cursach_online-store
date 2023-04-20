@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<products>
+<!-- холодильники -->
+    <product>
+        <name>Холодильник ATLANT</name>
+        <model>ХМ 4012-022</model>
+        <price>1 057р.</price>
+    </product>
+    <product>
+        <name>Холодильник ATLANT</name>
+        <model>ХМ 4425-000 N</model>
+        <price>1 487р.</price>
+    </product>
+    <product>
+        <name>Холодильник Samsung</name>
+        <model>RB33A32N0SA/WT</model>
+        <price>2 220р.</price>
+    </product>
+    <product>
+        <name>Холодильник ATLANT</name>
+        <model>ХМ 4008-022</model>
+        <price>890р.</price>
+    </product>
+    <product>
+        <name>Холодильник Indesit</name>
+        <model>ITR 5200 W</model>
+        <price>1 399р.</price>
+    </product>
+    <product>
+        <name>Холодильник ATLANT</name>
+        <model>ХМ 4623-140</model>
+        <price>1 317р.</price>
+    </product>
+    <product>
+        <name>Холодильник ATLANT</name>
+        <model>ХМ 4010-022</model>
+        <price>975р.</price>
+    </product>
+    <product>
+        <name>Холодильник ATLANT</name>
+        <model>ХМ 4625-109-ND</model>
+        <price>1 598р.</price>
+    </product>
+    <product>
+        <name>Холодильник LG</name>
+        <model>GA-B419SYGL</model>
+        <price>2 070р.</price>
+    </product>
+
+    <!-- стиралки -->
+    <product>
+        <name>Стиральная машина LG</name>
+        <model>F2J6HSDS</model>
+        <price>1 787р..</price>
+    </product>
+    <product>
+        <name>Стиральная машина LG</name>
+        <model>F2J3HS4L</model>
+        <price>1 740р.</price>
+    </product>
+    <product>
+        <name>Стиральная машина Samsung</name>
+        <model>WW60A4S00CX/LP</model>
+        <price>1 639р.</price>
+    </product>
+    <product>
+        <name>Стиральная машина LG</name>
+        <model>F2J3HS0W</model>
+        <price>1 620р.</price>
+    </product>
+    <product>
+        <name>Стиральная машина Samsung</name>
+        <model>WW90T4041EE/LP</model>
+        <price>1 599р.</price>
+    </product>
+    <product>
+        <name>Стиральная машина ATLANT</name>
+        <model>СМА 80С1213-01</model>
+        <price>1 231р.</price>
+    </product>
+
+    <!-- плиты -->
+    <product>
+        <name>Газоэлектрическая плита Hansa</name>
+        <model>FCMX59229</model>
+        <price>1 057р.</price>
+    </product>
+    <product>
+        <name>Газоэлектрическая плита GEFEST</name>
+        <model>ПГЭ 5102-03</model>
+        <price>940р.</price>
+    </product>
+    <product>
+        <name>Газоэлектрическая плита GEFEST</name>
+        <model>ПГЭ 5102-03 0023</model>
+        <price>857р.</price>
+    </product>
+    <!-- вытяжки -->
+    <product>
+        <name>Кухонная вытяжка Backer</name>
+        <model>AH60E-MC-F1 Black 12K</model>
+        <price>580р.</price>
+    </product>
+    <product>
+        <name>Кухонная вытяжка Backer</name>
+        <model>KH60A-F1 Inox</model>
+        <price>230р.</price>
+    </product>
+    <product>
+        <name>Кухонная вытяжка Backer</name>
+        <model>TH60CL-2F200-SHINY</model>
+        <price>474р.</price>
+    </product>
+</products>
