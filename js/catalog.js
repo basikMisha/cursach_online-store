@@ -3,7 +3,7 @@ const names = [];
 const models = [];
 const prices = []
 
-fetch('../data.xml').then(response => {
+fetch('../xml/data.xml').then(response => {
     return response.text();
 
 }).then(xmlData => {
