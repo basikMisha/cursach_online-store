@@ -3,7 +3,7 @@ const names = [];
 const models = [];
 const prices = []
 
-fetch('../xml/data.xml').then(response => {
+fetch('https://github.com/basikMisha/cursach_online-store/blob/master/xml/data.xml').then(response => {
     return response.text();
 
 }).then(xmlData => {
