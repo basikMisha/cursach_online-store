@@ -242,6 +242,10 @@ button {
 .header__inner .menu__list .menu__list-item .menu__list-link {
   font-size: 20px;
 }
+.header__inner .menu__list .menu__list-item .menu__list-link:hover {
+  color: #f16750;
+  transition: color 0.3s;
+}
 
 .menu-btn {
   width: 45px;

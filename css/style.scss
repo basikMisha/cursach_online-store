@@ -98,6 +98,10 @@ button {
 
             .menu__list-link {
                 font-size: 20px;
+                &:hover {
+                    color: $orange;
+                    transition: color 0.3s;
+                }
             }
         }
     }
